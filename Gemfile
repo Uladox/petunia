@@ -92,6 +92,7 @@ gem "jquery-rails",      "4.0.4"
 gem "jquery-ui-rails",   "5.0.5"
 gem "js_image_paths",    "0.0.2"
 gem "js-routes",         "1.0.1"
+gem 'threejs-rails', git: 'git://github.com/marvindanig/threejs-rails.git'
 
 source "https://rails-assets.org" do
   gem "rails-assets-jquery",                              "1.11.2" # Should be kept in sync with jquery-rails

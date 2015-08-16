@@ -1,3 +1,10 @@
+GIT
+  remote: git://github.com/marvindanig/threejs-rails.git
+  revision: 15a9e69339f703a350412966d2e22a6dec135248
+  specs:
+    threejs-rails (0.0.2)
+      railties (>= 3.0.0)
+
 GEM
   remote: https://rubygems.org/
   remote: https://rails-assets.org/
@@ -890,6 +897,7 @@ DEPENDENCIES
   spring-commands-cucumber (= 1.0.1)
   spring-commands-rspec (= 1.0.4)
   test_after_commit (= 0.4.1)
+  threejs-rails!
   timecop (= 0.8.0)
   twitter (= 5.14.0)
   twitter-text (= 1.12.0)
